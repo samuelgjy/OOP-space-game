@@ -1,0 +1,9 @@
+Back=Welcome back! How can I help you today?\n\n-Help\n-Smalltalk
+
+Help=What help do you need?\n-How to play\n-How to win\n-Pokemon types\n-About moves\n\n\n\n\nType 'Back' to go previous page
+
+Smalltalk=Hey there! How are you today?
+Good=That is good to hear!
+Great=That is good to hear!
+Nice weather we are having=No it is not! Singapore weather very hot!
+Who is the best professor?= Prof Nisha
